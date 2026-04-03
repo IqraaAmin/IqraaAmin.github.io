@@ -9,7 +9,7 @@ order: 2
 
 Hi! I'm Iqra. A student of Computer Engineering at UET FSD Campus.
 
-- 🎓 Degree: BS Computer Science
+- 🎓 Degree: BS Computer Engineering 
 - 📍 Location: Faisalabad, Pakistan
 - 💻 Interests: Web Development, Data Science
 
