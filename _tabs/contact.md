@@ -7,6 +7,8 @@ order: 3
 
 ## Contact Me
 
-- 📧 **Email:** iqraamin060@gmail.com  
-- 🐙 **GitHub:** (https://github.com/iqraaamin)  
-- 📍 **Location:** Faisalabad, Pakistan
+Feel free to reach out!
+
+- 📧 **Email:** iqraamin060@gmail.com 
+- 🐙 **GitHub:** (https://iqraamin.github.io) 
+- 💼 **LinkedIn:** [linkedin.com/in/IqraaAmin]
