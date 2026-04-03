@@ -1,21 +1,5 @@
----
-layout: page
-title: "Home"
-permalink: /
----
+My name is Iqra Amin and I am a Computer Engineering student at the University of Engineering and Technology, FSD Campus. My Roll No is 2025-BSCPE-178 and I belong to Section B of the Electrical Department.
 
-## Welcome to My Site
+I am passionate about Web Development and Data Science. Through this blog, I share my learning journey, programming experiences, and project work with others.
 
-**Name:** Iqra Amin
-
-**Roll No:** 2025-BSCPE-178
-
-**Section:** B
-
-**Department:** Electrical Department
-
-**University:** University of Engineering and Technology (FSD Campus)
-
-**Email:** iqraamin060@gmail.com
-
-**GitHub:** (https://iqraaamin.github.io)
+You can reach me at iqraamin060@gmail.com or visit my GitHub profile to explore my work.
