@@ -1,8 +1,16 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: About
+icon: fas fa-user
+order: 2
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## About Me
+
+Hi! I'm Iqra. A student of Computer Engineering at UET FSD Campus.
+
+- 🎓 Degree: BS Computer Science
+- 📍 Location: Faisalabad, Pakistan
+- 💻 Interests: Web Development, Data Science
+
+This blog is where I share my learning journey.
