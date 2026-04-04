@@ -218,7 +218,7 @@ exclude:
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
-    category: category
+    category: Weekly logs
     tag: tag
   permalinks:
     tag: /tags/:name/
