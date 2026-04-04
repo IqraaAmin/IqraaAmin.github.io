@@ -3,8 +3,9 @@ title: "My First Experience with Programming"
 date: 2026-04-02
 categories: [Blog]
 tags: [programming, experience]
+image:
+  path: /assets/img/programmin.jpg
 ---
-
 ## Learning Basic Programming Concepts
 
 In Programming Fundamentals (PF), I learned basic concepts of programming such as variables, data types, and simple conditions. These concepts helped me understand how a computer follows instructions step by step. It was the beginning of my journey into the world of coding.
