@@ -15,3 +15,6 @@ Outside of my lab work, I am really interested in exploring the world of Artific
 **Purpose behind my blog**
 
 I started this blog to keep a record of everything I am learning. Here, I share my lab reports, technical projects, and the challenges I face along the way. Technology changes very fast, so I use this space to document my progress and stay updated. 
+
+
+<a href="/categories.html" style="padding:10px; background-color:#f2f2f2; border-radius:5px; text-decoration:none;">Categories</a>
