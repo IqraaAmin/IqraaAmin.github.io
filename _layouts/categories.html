@@ -1,42 +1,15 @@
----
-layout: page
----
-
 <div id="category-list" class="flex-column">
-  {% assign category_name = page.title | default: page.category %}
-  
-  {% for post in site.categories[category_name] %}
-  <article class="card mb-3 p-3 shadow-sm">
-    <div class="d-flex align-items-center">
-      
-      {% if post.image.path %}
-      <div class="mr-3 flex-shrink-0">
-        <img src="{{ post.image.path | relative_url }}" 
-             alt="{{ post.title }}"
-             style="width: 140px; height: 100px; object-fit: cover; border-radius: 10px; border: 1px solid #eee;">
-      </div>
-      {% endif %}
 
-      <div class="flex-grow-1">
-        <h2 class="h4 mb-2">
-          <a href="{{ post.url | relative_url }}" class="text-dark font-weight-bold">{{ post.title }}</a>
-        </h2>
-        
-        <p class="text-muted mb-2" style="font-size: 0.95rem; line-height: 1.4;">
-          {{ post.excerpt | strip_html | truncate: 130 }}
-        </p>
-        
-        <a href="{{ post.url | relative_url }}" class="text-primary font-weight-bold" style="text-decoration: none;">
-          Read More →
-        </a>
-      </div>
-      
-    </div>
-  </article>
-  {% else %}
-    <div class="text-center py-5">
-      <p class="text-muted font-italic">Is category mein abhi koi post nahi mili.</p>
-      <small class="text-light">Tip: Check karein ke post ke 'categories' mein exactly "{{ category_name }}" likha hai ya nahi.</small>
-    </div>
+  <h1 class="h2 border-bottom pb-2">Personal Life</h1>
+  {% for post in site.categories["Personal Life"] %}
+    <article class="card mb-3 p-3 shadow-sm">
+      </article>
   {% endfor %}
+
+  <h1 class="h2 border-bottom pb-2 mt-5">University Life</h1>
+  {% for post in site.categories["University Life"] %}
+    <article class="card mb-3 p-3 shadow-sm">
+      </article>
+  {% endfor %}
+
 </div>
