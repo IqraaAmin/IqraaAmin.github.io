@@ -1,7 +1,7 @@
 ---
 title: "My First Experience with Programming"
 date: 2026-04-02
-categories: [University-Life]
+categories: [University-life]
 tags: [programming, experience]
 image:
   path: /assets/img/programmin.jpg
