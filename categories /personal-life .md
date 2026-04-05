@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Personal Life
-categories: personal-life
+category: personal-life
 permalink: /categories/personal-life/
 ---
