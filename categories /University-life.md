@@ -1,6 +1,6 @@
 ---
 layout: category
 title: University Life
-category: University-life
-permalink: /categories/University-life/
+category: university-life
+permalink: /categories/university-life/
 ---
