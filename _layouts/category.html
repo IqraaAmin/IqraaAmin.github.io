@@ -1,1 +1,29 @@
+---
+layout: page
+---
 
+<div id="category-list" class="flex-column">
+  {% for post in site.categories[page.title] %}
+  <article class="card mb-3 p-3">
+    <div class="d-flex">
+      
+      {% if post.image.path %}
+      <div class="mr-3">
+        <img src="{{ post.image.path | relative_url }}" style="width: 120px; height: 90px; object-fit: cover; border-radius: 8px;">
+      </div>
+      {% endif %}
+
+      <div>
+        <h2 class="h4"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        
+        <p class="text-muted" style="font-size: 0.9rem;">
+          {{ post.excerpt | strip_html | truncate: 120 }}
+        </p>
+        
+        <a href="{{ post.url | relative_url }}" class="btn btn-sm btn-outline-primary">Read More →</a>
+      </div>
+      
+    </div>
+  </article>
+  {% endfor %}
+</div>
