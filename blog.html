@@ -9,7 +9,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
- 
+
     :root {
       --bg: #1e2329;
       --sidebar-bg: #171b21;
@@ -22,7 +22,7 @@
       --tag-bg: #313748;
       --sidebar-width: 260px;
     }
- 
+
     body {
       font-family: 'Inter', sans-serif;
       background: var(--bg);
@@ -30,7 +30,7 @@
       min-height: 100vh;
       display: flex;
     }
- 
+
     /* ── SIDEBAR ── */
     .sidebar {
       width: var(--sidebar-width);
@@ -44,7 +44,7 @@
       border-right: 1px solid var(--border);
       z-index: 100;
     }
- 
+
     .sidebar-profile {
       display: flex;
       flex-direction: column;
@@ -54,7 +54,7 @@
       border-bottom: 1px solid var(--border);
       margin-bottom: 16px;
     }
- 
+
     .avatar {
       width: 80px;
       height: 80px;
@@ -69,27 +69,27 @@
       letter-spacing: -1px;
       flex-shrink: 0;
     }
- 
+
     .profile-name {
       font-size: 15px;
       font-weight: 600;
       color: var(--text);
       text-align: center;
     }
- 
+
     .profile-tagline {
       font-size: 12px;
       color: var(--text-muted);
       text-align: center;
       line-height: 1.5;
     }
- 
+
     .nav-links {
       list-style: none;
       padding: 0 12px;
       flex: 1;
     }
- 
+
     .nav-links li a {
       display: flex;
       align-items: center;
@@ -102,19 +102,19 @@
       font-weight: 500;
       transition: all 0.2s;
     }
- 
+
     .nav-links li a:hover,
     .nav-links li a.active {
       background: var(--tag-bg);
       color: var(--accent);
     }
- 
+
     .nav-links li a .nav-icon {
       font-size: 16px;
       width: 20px;
       text-align: center;
     }
- 
+
     .sidebar-footer {
       padding: 16px 20px 0;
       border-top: 1px solid var(--border);
@@ -122,16 +122,16 @@
       gap: 12px;
       justify-content: center;
     }
- 
+
     .sidebar-footer a {
       color: var(--text-muted);
       font-size: 18px;
       text-decoration: none;
       transition: color 0.2s;
     }
- 
+
     .sidebar-footer a:hover { color: var(--accent); }
- 
+
     /* ── MAIN CONTENT ── */
     .main {
       margin-left: var(--sidebar-width);
@@ -139,11 +139,11 @@
       padding: 48px 40px;
       max-width: 900px;
     }
- 
+
     .page-header {
       margin-bottom: 40px;
     }
- 
+
     .page-header p {
       color: var(--text-muted);
       font-size: 14px;
@@ -151,14 +151,14 @@
       letter-spacing: 0.5px;
       text-transform: uppercase;
     }
- 
+
     .page-header h1 {
       font-family: 'Source Serif 4', serif;
       font-size: 36px;
       font-weight: 600;
       color: var(--text);
     }
- 
+
     /* ── CATEGORY CARDS ── */
     .category-grid {
       display: grid;
@@ -166,7 +166,7 @@
       gap: 16px;
       margin-bottom: 52px;
     }
- 
+
     .cat-card {
       border-radius: 10px;
       overflow: hidden;
@@ -175,16 +175,16 @@
       aspect-ratio: 16/9;
       display: block;
     }
- 
+
     .cat-card img {
       width: 100%;
       height: 100%;
       object-fit: cover;
       transition: transform 0.4s;
     }
- 
+
     .cat-card:hover img { transform: scale(1.04); }
- 
+
     .cat-card .cat-overlay {
       position: absolute;
       inset: 0;
@@ -194,7 +194,7 @@
       justify-content: flex-end;
       padding: 14px;
     }
- 
+
     .cat-label {
       font-size: 10px;
       font-weight: 600;
@@ -203,18 +203,18 @@
       letter-spacing: 1px;
       margin-bottom: 2px;
     }
- 
+
     .cat-name {
       font-size: 14px;
       font-weight: 600;
       color: #fff;
     }
- 
+
     .cat-count {
       font-size: 11px;
       color: rgba(255,255,255,0.6);
     }
- 
+
     /* ── SECTION HEADING ── */
     .section-title {
       font-family: 'Source Serif 4', serif;
@@ -228,7 +228,7 @@
       align-items: center;
       gap: 8px;
     }
- 
+
     .section-title::before {
       content: '';
       width: 3px;
@@ -237,7 +237,7 @@
       border-radius: 2px;
       display: inline-block;
     }
- 
+
     /* ── ARTICLE CARDS ── */
     .article-list {
       display: flex;
@@ -245,7 +245,7 @@
       gap: 0;
       margin-bottom: 48px;
     }
- 
+
     .article-card {
       display: flex;
       gap: 24px;
@@ -254,11 +254,11 @@
       text-decoration: none;
       transition: background 0.2s;
     }
- 
+
     .article-card:hover .article-title {
       color: var(--accent);
     }
- 
+
     .article-thumb {
       width: 160px;
       height: 100px;
@@ -266,7 +266,7 @@
       object-fit: cover;
       flex-shrink: 0;
     }
- 
+
     .article-body {
       flex: 1;
       display: flex;
@@ -274,12 +274,12 @@
       justify-content: center;
       gap: 6px;
     }
- 
+
     .article-date {
       font-size: 12px;
       color: var(--text-muted);
     }
- 
+
     .article-title {
       font-family: 'Source Serif 4', serif;
       font-size: 17px;
@@ -288,7 +288,7 @@
       line-height: 1.4;
       transition: color 0.2s;
     }
- 
+
     .article-excerpt {
       font-size: 13px;
       color: var(--text-muted);
@@ -298,7 +298,7 @@
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
- 
+
     .article-tag {
       display: inline-block;
       background: var(--tag-bg);
@@ -310,7 +310,7 @@
       letter-spacing: 0.3px;
       width: fit-content;
     }
- 
+
     /* ── RESPONSIVE ── */
     @media (max-width: 768px) {
       .sidebar {
@@ -344,7 +344,7 @@
   </style>
 </head>
 <body>
- 
+
   <!-- ── SIDEBAR ── -->
   <aside class="sidebar">
     <div class="sidebar-profile">
@@ -354,7 +354,7 @@
         <div class="profile-tagline">Computer Engineering<br>Portfolio</div>
       </div>
     </div>
- 
+
     <ul class="nav-links">
       <li>
         <a href="index.html">
@@ -377,21 +377,21 @@
         </a>
       </li>
     </ul>
- 
+
     <div class="sidebar-footer">
       <a href="mailto:iqraaamin@gmail.com" title="Email">📧</a>
       <a href="https://github.com/IqraaAmin" title="GitHub">🐙</a>
     </div>
   </aside>
- 
+
   <!-- ── MAIN ── -->
   <main class="main">
- 
+
     <div class="page-header">
       <p>Posts, updates, and personal writing</p>
       <h1>Articles</h1>
     </div>
- 
+
     <!-- Category Cards -->
     <div class="category-grid">
       <a class="cat-card" href="#introduction">
@@ -419,11 +419,11 @@
         </div>
       </a>
     </div>
- 
+
     <!-- ── Introduction ── -->
     <h2 class="section-title" id="introduction">Introduction</h2>
     <div class="article-list">
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/33327129/pexels-photo-33327129.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -433,7 +433,7 @@
           <span class="article-tag">Introduction</span>
         </div>
       </a>
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/5483075/pexels-photo-5483075.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -443,7 +443,7 @@
           <span class="article-tag">Introduction</span>
         </div>
       </a>
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/7972502/pexels-photo-7972502.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -453,13 +453,13 @@
           <span class="article-tag">Introduction</span>
         </div>
       </a>
- 
+
     </div>
- 
+
     <!-- ── 1st Semester ── -->
     <h2 class="section-title" id="1st-semester">1st Semester</h2>
     <div class="article-list">
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/7972512/pexels-photo-7972512.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -469,7 +469,7 @@
           <span class="article-tag">1st Semester</span>
         </div>
       </a>
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/8423405/pexels-photo-8423405.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -479,7 +479,7 @@
           <span class="article-tag">1st Semester</span>
         </div>
       </a>
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/5483075/pexels-photo-5483075.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -489,7 +489,7 @@
           <span class="article-tag">1st Semester</span>
         </div>
       </a>
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/6684150/pexels-photo-6684150.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -499,7 +499,7 @@
           <span class="article-tag">1st Semester</span>
         </div>
       </a>
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/7947996/pexels-photo-7947996.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -509,13 +509,13 @@
           <span class="article-tag">1st Semester</span>
         </div>
       </a>
- 
+
     </div>
- 
+
     <!-- ── 2nd Semester ── -->
     <h2 class="section-title" id="2nd-semester">2nd Semester</h2>
     <div class="article-list">
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -525,7 +525,7 @@
           <span class="article-tag">2nd Semester</span>
         </div>
       </a>
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/7988114/pexels-photo-7988114.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -535,7 +535,7 @@
           <span class="article-tag">2nd Semester</span>
         </div>
       </a>
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/6684150/pexels-photo-6684150.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -545,7 +545,7 @@
           <span class="article-tag">2nd Semester</span>
         </div>
       </a>
- 
+
       <a class="article-card" href="#">
         <img class="article-thumb" src="https://images.pexels.com/photos/7947996/pexels-photo-7947996.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
         <div class="article-body">
@@ -555,9 +555,10 @@
           <span class="article-tag">2nd Semester</span>
         </div>
       </a>
- 
+
     </div>
- 
+
   </main>
- 
+
 </body>
+</html>
