@@ -1,3 +1,12 @@
+
+
+---
+title: "My Journey To UET"
+date: 2026-04-08
+categories: [Introduction]
+layout: post
+---
+
 ```markdown
 # My Journey to UET Faisalabad
 
