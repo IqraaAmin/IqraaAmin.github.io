@@ -1,10 +1,9 @@
 ---
 title: "Challenges I Faced in Programming Fundamentals (PF) Lab"
-date: 2026-05-21
-categories: [university-life]
+date: 2026-05-01
+categories: [Ist semester]
 tags: [programming, experience]
 ---
-# Challenges I Faced in Programming Fundamentals (PF) Lab
 
 ## Understanding Programming Logic
 
