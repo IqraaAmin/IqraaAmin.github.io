@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Lecture Experience"
-date: 2026-01-05
+date: 2026-04-08
 categories: [1st Semester]
 tags: [experience]
 image:
