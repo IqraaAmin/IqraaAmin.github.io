@@ -4,7 +4,6 @@ date: 2026-05-21
 categories: [university-life]
 tags: [programming, experience]
 ---
-
 # Challenges I Faced in Programming Fundamentals (PF) Lab
 
 ## Understanding Programming Logic
