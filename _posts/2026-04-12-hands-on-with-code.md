@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Hands On With Code For The First Time"
-date: 2026-01-06
+date: 2026-04-12
 categories: [1st Semester]
 tags: [programming]
 image:
 path: https://images.pexels.com/photos/5483075/pexels-photo-5483075.jpeg
-------------------------------------------------------------------------
+---
 
 There is a big difference between reading about programming and actually sitting down to write code. You can study syntax, memorize rules, and understand concepts theoretically—but the moment you open a compiler and type your first line of actual code, everything becomes real in a way that no textbook can replicate. My first programming lab session was exactly that kind of moment. It was the point where Computer Engineering stopped being an abstract idea and became something I could touch, test, and experience directly.
 
