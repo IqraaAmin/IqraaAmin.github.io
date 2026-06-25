@@ -1,7 +1,7 @@
 ---
-title: "Advanced Pandas: GroupBy, Merge and Data Cleaning Techniques"
-date: 2026-05-18
-categories: [2nd Semester]
+title: "learnin the basics of the programming"
+date: 2026-04-29
+categories: [1st Semester]
 tags: [pandas, data-science, python, data-cleaning]
 ---
 
