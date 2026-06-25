@@ -3,7 +3,6 @@ title: "Challenges I Faced in Programming Fundamentals (PF) Lab"
 date: 2026-05-21
 categories: [university-life]
 tags: [programming, experience]
-permalink: /posts/Challenges-i-faced/
 ---
 
 # Challenges I Faced in Programming Fundamentals (PF) Lab
