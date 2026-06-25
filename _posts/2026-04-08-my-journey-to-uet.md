@@ -9,7 +9,6 @@ image:
   path: /assets/img/uet pic.jfif
 ---
 
-```markdown
 # My Journey to UET Faisalabad
 
 ![Uet FSD Campus](uet pic.jfif)
