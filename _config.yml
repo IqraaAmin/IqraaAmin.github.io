@@ -63,7 +63,7 @@ analytics:
 pageviews:
   provider:
  
-theme_mode: # [light | dark]
+theme_mode: dark
  
 cdn:
  
