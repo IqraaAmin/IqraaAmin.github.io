@@ -1,10 +1,12 @@
 
-
 ---
-title: "My Journey To UET"
-date: 2026-04-08
-categories: [Introduction]
-layout: post
+title: "My Journey to uet faisalabad"
+date: 2026-04-02
+categories: [university-life]
+tags: [programming, experience]
+permalink: /posts/my-journey-to-uet/
+image:
+  path: /assets/img/uet pic.jfif
 ---
 
 ```markdown
