@@ -1,7 +1,7 @@
 ---
 title: "Challenges I Faced in Programming Fundamentals (PF) Lab"
 date: 2026-05-01
-categories: [1st semester]
+categories: [1st Semester]
 tags: [programming, experience]
 ---
 
