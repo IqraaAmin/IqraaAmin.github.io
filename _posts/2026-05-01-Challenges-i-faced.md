@@ -6,10 +6,6 @@ tags: [programming, experience]
 image:
   path: https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-<!-- post-image-start -->
-![Challenges i faced image 1](https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1200)
-<!-- post-image-start-end -->
-
 ## Understanding Programming Logic
 
 The Programming Fundamentals (PF) Lab was one of the most important learning experiences in my academic journey. When I started the PF Lab, coding was completely new to me. Understanding concepts in theory classes was relatively easier, but implementing those concepts in practical programs was quite challenging. Programming is not just about writing code; it is a combination of logical thinking and problem-solving skills.
