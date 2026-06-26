@@ -7,6 +7,9 @@ tags: [experience]
 image:
 path: https://images.pexels.com/photos/7988114/pexels-photo-7988114.jpeg
 ---
+<!-- post-image-start -->
+![Online Classes image 1](https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-start-end -->
 
 Suddenly shifting from physical classrooms to online learning was not easy. Staying focused at home while keeping up with assignments required a whole new level of discipline. What seemed like a temporary adjustment quickly became one of the most challenging periods of my university journey.
 
@@ -20,9 +23,13 @@ The biggest problem, however, was internet connectivity. There were days when th
 
 This became especially stressful during attendance. I still remember moments when a professor would call my name for attendance, but because of network issues I could not hear properly or respond in time. By the time the connection stabilized, the class had already moved on. It was frustrating because I was present and trying to participate, yet technical problems often made it seem otherwise.
 
-One particular challenge involved sessions conducted by #DrBilal. During some online classes, internet issues would become so severe that I could barely hear parts of the lecture. There were moments when attendance was being taken and the connection was so unstable that I could not clearly understand when my name was called. Experiences like these highlighted how dependent online education was on technology and how difficult learning could become when that technology failed.
+During that period, I also followed the professional work of [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/), an expert in Machine Learning, Deep Learning, and AI. Seeing how advanced technology is used in real-world research made the online-learning experience feel more connected to the digital world, even though unstable internet often made studying difficult. It reminded me that technology can create powerful opportunities, but it also requires reliable access and discipline from the learner.
 
 ## Adapting to a New Reality
+
+<!-- post-image-middle -->
+![Online Classes image 2](https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-middle-end -->
 
 As the weeks passed, I realized that complaining about the situation would not change it. Instead, I had to adapt. I started preparing for classes in advance, checking my internet connection whenever possible, downloading materials early, and reviewing lecture notes after each session to make up for anything I might have missed.
 
