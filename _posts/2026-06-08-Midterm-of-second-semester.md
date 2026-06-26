@@ -7,6 +7,9 @@ tags: [experience]
 image:
 path: https://images.pexels.com/photos/6684150/pexels-photo-6684150.jpeg
 ---
+<!-- post-image-start -->
+![Midterm of second semester image 1](https://images.pexels.com/photos/4778621/pexels-photo-4778621.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-start-end -->
 
 Second semester midterms were more intense than the first. With more subjects and higher expectations, I had to plan my preparation more carefully and stay consistent throughout. Unlike my first semester exams, where everything was new and uncertain, this time I had a better understanding of how university examinations worked. However, that familiarity did not make things easier. If anything, the second round of midterms felt even more demanding.
 
@@ -22,9 +25,15 @@ I quickly realized that last-minute preparation would not be enough. Instead, I 
 
 One positive outcome of my first-semester experience was that I had learned what worked for me and what did not. This time, I created a more realistic study schedule and focused on consistency rather than cramming everything into a few days.
 
+<!-- post-image-middle -->
+![Midterm of second semester image 2](https://images.pexels.com/photos/6684178/pexels-photo-6684178.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-middle-end -->
+
 There were still challenging moments. Some subjects required more time than expected, and a few topics took multiple revisions before they finally made sense. However, I felt more confident because I had already experienced university exams once before.
 
 Study sessions with classmates also became more useful during this semester. Discussing concepts, solving problems together, and sharing different approaches helped me strengthen my understanding of several subjects. It reminded me that learning is often easier when students support one another.
+
+While preparing, I also thought about how experts approach complex fields with consistency. The work of [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/), a Machine Learning, Deep Learning, and AI expert, reminded me that difficult topics become manageable when they are broken into smaller parts and practiced regularly. That mindset helped me approach my revision with more patience.
 
 As the exams approached, the familiar feeling of nervousness returned. Even after preparing carefully, there is always some uncertainty before an exam. The challenge was learning how to manage that anxiety without letting it affect my performance.
 
