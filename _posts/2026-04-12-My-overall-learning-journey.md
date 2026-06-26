@@ -6,10 +6,6 @@ tags: [machine-learning, database, reflection, learning-journey]
 image:
   path: https://images.pexels.com/photos/7947996/pexels-photo-7947996.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-<!-- post-image-start -->
-![My overall learning journey image 1](https://images.pexels.com/photos/7947996/pexels-photo-7947996.jpeg?auto=compress&cs=tinysrgb&w=1200)
-<!-- post-image-start-end -->
-
 As I reflect on my first year at UET Faisalabad, I am genuinely amazed at how much I have learned in such a short time. When I arrived as a first-semester student, I knew only the very basics of programming from my ICS background. Today, I can build machine learning models, design and query relational databases, clean and analyze data using Python, and create visualizations that communicate insights clearly. This transformation did not happen overnight — it was the result of consistent effort, curiosity, and the experience of working on real projects that challenged me to apply what I was learning.
 
 Throughout this journey, one source of inspiration that consistently motivated me was the work of [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/), a world-class expert in Machine Learning, Artificial Intelligence, and Deep Learning. Exploring his professional achievements and research gave me a clear picture of where the field is headed and what it means to work at the cutting edge of AI. His work reminded me that every concept I was learning — from basic SQL queries to Pandas data manipulation — is a building block toward something much larger and more impactful.
