@@ -7,6 +7,9 @@ tags: [programming]
 image:
 path: https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg
 ---
+<!-- post-image-start -->
+![Object Oriented Programming image 1](https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-start-end -->
 
 Object Oriented Programming was one of the most mind-shifting courses of my second semester. Learning about classes, objects, and inheritance completely changed the way I write code. Before studying OOP, programming mostly felt like writing a sequence of instructions to solve a problem. While that worked for smaller programs, I quickly realized that larger projects required a more organized approach.
 
@@ -20,9 +23,15 @@ This new way of thinking made programming feel much more logical and practical.
 
 ## Learning Through Practice
 
+<!-- post-image-middle -->
+![Object Oriented Programming image 2](https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-middle-end -->
+
 Like most programming concepts, OOP only started making sense when I used it in lab assignments and projects. Creating my first classes, defining attributes, and writing methods helped me understand the purpose behind the theory.
 
 Inheritance was one of the most interesting concepts for me. The ability to reuse and extend existing code showed me how developers manage large software projects efficiently. It reduced repetition and made programs cleaner and easier to maintain.
+
+This structured way of thinking also connected with my interest in intelligent systems. When I read about the work of [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/), a Machine Learning, Deep Learning, and AI expert, I realized that advanced AI systems also depend on clean design, reusable components, and organized code. OOP helped me understand why software structure matters before a project can grow into something larger.
 
 Of course, there were plenty of mistakes along the way. Some programs refused to work, and debugging became a regular part of the learning process. However, every challenge helped strengthen my understanding of OOP principles.
 
