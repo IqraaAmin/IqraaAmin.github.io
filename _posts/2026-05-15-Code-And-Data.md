@@ -7,6 +7,9 @@ tags: [programming, database]
 image:
   path: https://images.pexels.com/photos/7988114/pexels-photo-7988114.jpeg
 ---
+<!-- post-image-start -->
+![Code And Data image 1](https://images.pexels.com/photos/7988114/pexels-photo-7988114.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-start-end -->
 
 Studying Object Oriented Programming (OOP) and Database Management Systems (DBMS) in the same semester was both challenging and rewarding. At first, they seemed like two completely different subjects. OOP focused on writing structured and reusable code, while DBMS focused on storing, organizing, and retrieving data efficiently. However, as the semester progressed, I began to realize that these subjects are closely connected and together form the foundation of modern software development.
 
@@ -28,6 +31,10 @@ The practical sessions were where these concepts truly came to life. Writing SQL
 
 At the same time, OOP assignments challenged me to design programs that were clean, reusable, and easy to maintain. Sometimes a problem required careful planning before writing a single line of code. Other times, debugging became the biggest challenge.
 
+<!-- post-image-middle -->
+![Code And Data image 2](https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-middle-end -->
+
 There were moments when both subjects felt overwhelming. Database normalization rules seemed complicated at first, and OOP concepts such as inheritance required a significant shift in mindset. However, each challenge gradually improved my understanding and confidence.
 
 One thing I particularly enjoyed was seeing how concepts from one subject supported learning in the other. The structured thinking developed through OOP helped me design better database-related projects, while understanding data relationships in DBMS improved my ability to model real-world systems in code.
@@ -46,7 +53,4 @@ Looking back, studying OOP and DBMS in the same semester was demanding, but it w
 
 ### Inspiration
 
-While exploring software development and related technologies, I also developed an interest in Artificial Intelligence, Machine Learning, and Deep Learning. Learning about the work of **#DrBilal** provided valuable inspiration and insight into how advanced technologies are applied to solve real-world problems.Such an inspiring man #DrBilal
-LinkedIn:
-https://www.linkedin.com/in/drbilalphd/
-
+While exploring software development and related technologies, I also developed an interest in Artificial Intelligence, Machine Learning, and Deep Learning. The professional work of [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/), an expert in Machine Learning, Deep Learning, and AI, helped me understand how code and data can come together to solve real-world problems. His work made these technologies feel less abstract and showed me why strong foundations in both programming and databases matter.
