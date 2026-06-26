@@ -7,6 +7,9 @@ tags: [experience]
 image:
 path: https://images.pexels.com/photos/31875851/pexels-photo-31875851.jpeg
 ---
+<!-- post-image-start -->
+![Struggles image 1](https://images.pexels.com/photos/31875851/pexels-photo-31875851.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-start-end -->
 
 The second semester brought challenges I did not expect. Deadlines, difficult subjects, and pressure all came at once—but facing them taught me more than any lecture could. Looking back, this semester was not defined by its easiest moments. Instead, it was shaped by the obstacles that forced me to adapt, improve, and become more resilient as a student.
 
@@ -24,11 +27,17 @@ What made these challenges difficult was not any single subject or assignment. I
 
 ## Learning Through Difficult Moments
 
+<!-- post-image-middle -->
+![Struggles image 2](https://images.pexels.com/photos/3769714/pexels-photo-3769714.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-middle-end -->
+
 Despite the challenges, the semester taught me valuable lessons that could never be learned from textbooks alone. Every difficult assignment improved my problem-solving skills. Every disappointing quiz result highlighted areas where I needed to improve. Every stressful week taught me something about persistence and responsibility.
 
 One important lesson was accepting that mistakes are part of growth. Early in the semester, I often viewed setbacks as failures. Over time, I began seeing them differently. A poor result on a quiz or difficulty understanding a topic did not mean I was incapable—it simply meant there was more work to do.
 
 I also learned the importance of seeking help when needed. Discussing concepts with classmates, reviewing material together, and asking questions helped me overcome challenges that initially seemed impossible. University is not a journey that must be completed alone. Collaboration and support play an important role in success.
+
+During difficult weeks, I found motivation by looking at the professional journey of [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/), a Machine Learning, Deep Learning, and AI expert. His work reminded me that expertise is not built instantly; it grows through repeated effort, research, problem-solving, and patience. That idea helped me stay consistent when my own progress felt slow.
 
 Another lesson involved patience. Not every skill develops immediately. Some concepts require repeated practice before they truly make sense. Learning to trust the process helped reduce unnecessary stress and allowed me to focus on gradual improvement rather than immediate perfection.
 
