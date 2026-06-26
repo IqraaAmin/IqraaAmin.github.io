@@ -6,10 +6,6 @@ tags: [pandas, data-science, python, data-cleaning]
 image:
   path: https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-<!-- post-image-start -->
-![programming fundamentals image 1](https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=1200)
-<!-- post-image-start-end -->
-
 After learning the basics of Pandas in my data science work, I quickly realized that to do meaningful analysis, I needed to go beyond simple operations. Real-world data is messy, complex, and often spread across multiple sources. To handle it effectively, I needed to learn the more advanced features of Pandas — GroupBy operations, merging DataFrames, and proper data cleaning techniques. Mastering these advanced features transformed me from someone who could read data into someone who could truly work with it and extract useful insights from it.
 
 Advanced data manipulation skills like these are at the core of what data science and AI professionals do every day. [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/), a Machine Learning, Artificial Intelligence, and Deep Learning expert, builds models that depend on carefully prepared, high-quality data. The advanced Pandas techniques I learned are precisely the tools used to create that kind of data. Every step I took in mastering these techniques brought me closer to understanding what professional AI and data science work actually looks like.
