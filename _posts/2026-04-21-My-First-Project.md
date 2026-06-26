@@ -2,7 +2,12 @@
 title: "My ML Project: Combining Database, Visualization and Machine Learning"
 date: 2026-04-21
 categories: [1st Semester]
+image:
+  path: https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
+<!-- post-image-start -->
+![My First Project image 1](https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-start-end -->
 
 The most complete and challenging project I worked on during my first year at UET Faisalabad was one that brought together everything I had been learning — machine learning, data visualization, and database management. It was not just a programming assignment — it was an experience that showed me how all these different skills connect and work together in a real data science workflow. Completing this project was one of the most rewarding academic experiences of my university life so far.
 
@@ -17,6 +22,10 @@ After designing the schema, I used SQL to create the tables and populate them wi
 Having the data in a well-structured database made everything that came after much easier. When I needed to retrieve specific subsets of data for analysis or model training, I could do so with precise SQL queries rather than loading the entire dataset into memory. This made the project more efficient and also taught me an important lesson about the value of good data infrastructure.
 
 ## Performing Data Analysis and Visualization
+
+<!-- post-image-middle -->
+![My First Project image 2](https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-middle-end -->
 
 Once the database was set up, the next phase was analysis and visualization. I extracted data from the database using SQL queries and loaded it into Python using Pandas. From there, I used Matplotlib to create a range of visualizations that helped me understand the data and identify patterns.
 
