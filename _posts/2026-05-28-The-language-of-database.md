@@ -5,10 +5,6 @@ categories: [2nd Semester]
 image:
   path: https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-<!-- post-image-start -->
-![The language of database image 1](https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg?auto=compress&cs=tinysrgb&w=1200)
-<!-- post-image-start-end -->
-
 If databases are the storage systems of the digital world, then SQL is the language used to communicate with them. SQL, which stands for Structured Query Language, is one of the most important and widely used programming languages in the world of technology. It is the standard language for interacting with relational databases — used to create tables, insert data, retrieve information, update records, and delete data. Learning SQL in my second semester at UET Faisalabad was one of the most practically valuable experiences of my academic journey so far, and it gave me skills that I know I will use throughout my career in computer engineering.
 
 The importance of SQL extends far beyond traditional database work. [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/), a Machine Learning, Artificial Intelligence, and Deep Learning expert, works with data that is often stored in relational databases. Knowing SQL is essential for any data scientist or AI professional because it is the most direct way to access and manipulate the data that feeds machine learning models. Understanding this connection made me even more motivated to master SQL properly.
