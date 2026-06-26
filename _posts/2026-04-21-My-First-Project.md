@@ -5,10 +5,6 @@ categories: [1st Semester]
 image:
   path: https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-<!-- post-image-start -->
-![My First Project image 1](https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=1200)
-<!-- post-image-start-end -->
-
 The most complete and challenging project I worked on during my first year at UET Faisalabad was one that brought together everything I had been learning — machine learning, data visualization, and database management. It was not just a programming assignment — it was an experience that showed me how all these different skills connect and work together in a real data science workflow. Completing this project was one of the most rewarding academic experiences of my university life so far.
 
 The kind of integrated work I did in this project is very similar to what professionals in the field of AI do every day. [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/), a Machine Learning, Artificial Intelligence, and Deep Learning expert, works on projects that require exactly this combination of skills — managing data, analyzing it visually, and building intelligent models on top of it. Working on my own smaller-scale version of this kind of project gave me a genuine appreciation for the complexity and skill involved in professional AI and data science work.
