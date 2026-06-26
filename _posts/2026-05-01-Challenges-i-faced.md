@@ -3,7 +3,12 @@ title: "Challenges I Faced in Programming Fundamentals (PF) Lab"
 date: 2026-05-01
 categories: [1st Semester]
 tags: [programming, experience]
+image:
+  path: https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
+<!-- post-image-start -->
+![Challenges i faced image 1](https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-start-end -->
 
 ## Understanding Programming Logic
 
@@ -16,6 +21,10 @@ To better understand programming logic, I learned to divide every problem into s
 ## Dealing with Errors and Debugging
 
 One of the most challenging aspects of the PF Lab was debugging. Whenever a program failed to run or produced incorrect output, I had to identify and fix the error. In the beginning, syntax errors were very common. Sometimes I missed a semicolon, forgot a bracket, or used incorrect variable names.
+
+<!-- post-image-middle -->
+![Challenges i faced image 2](https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-middle-end -->
 
 At first, compiler error messages seemed confusing and frustrating. However, with time, I learned how to read and understand these messages. This process taught me patience, attention to detail, and the importance of careful code review. Whenever an error appeared, I would examine my code line by line to locate and resolve the issue. This practice significantly improved my debugging skills.
 
