@@ -67,7 +67,7 @@ theme_mode: dark
  
 cdn:
  
-avatar: " "
+avatar: /assets/img/clipboard.png
 social_preview_image:
  
 toc: true
