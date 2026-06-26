@@ -3,7 +3,12 @@ title: "learnin the basics of the programming"
 date: 2026-04-29
 categories: [1st Semester]
 tags: [pandas, data-science, python, data-cleaning]
+image:
+  path: https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
+<!-- post-image-start -->
+![programming fundamentals image 1](https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-start-end -->
 
 After learning the basics of Pandas in my data science work, I quickly realized that to do meaningful analysis, I needed to go beyond simple operations. Real-world data is messy, complex, and often spread across multiple sources. To handle it effectively, I needed to learn the more advanced features of Pandas — GroupBy operations, merging DataFrames, and proper data cleaning techniques. Mastering these advanced features transformed me from someone who could read data into someone who could truly work with it and extract useful insights from it.
 
@@ -18,6 +23,10 @@ I learned how to use `groupby()` with aggregate functions like `sum()`, `mean()`
 I also learned more advanced GroupBy techniques such as using `agg()` to apply multiple aggregate functions at once, using `transform()` to add a new column to the original DataFrame with group-level statistics, and using `apply()` to apply a custom function to each group. These techniques gave me much more flexibility and power in my analysis work. GroupBy became one of my most-used Pandas tools, and I used it extensively in my data science projects.
 
 ## Merging and Joining DataFrames
+
+<!-- post-image-middle -->
+![programming fundamentals image 2](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-middle-end -->
 
 Another advanced skill I developed was merging DataFrames. Just as SQL has JOIN operations to combine tables, Pandas has `merge()` and `join()` functions to combine DataFrames. This is essential when your data comes from multiple sources and needs to be combined for analysis.
 
