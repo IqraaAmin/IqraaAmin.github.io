@@ -2,7 +2,12 @@
 title: "Learning SQL: The Language of Databases"
 date: 2026-05-28
 categories: [2nd Semester]
+image:
+  path: https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
+<!-- post-image-start -->
+![The language of database image 1](https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-start-end -->
 
 If databases are the storage systems of the digital world, then SQL is the language used to communicate with them. SQL, which stands for Structured Query Language, is one of the most important and widely used programming languages in the world of technology. It is the standard language for interacting with relational databases — used to create tables, insert data, retrieve information, update records, and delete data. Learning SQL in my second semester at UET Faisalabad was one of the most practically valuable experiences of my academic journey so far, and it gave me skills that I know I will use throughout my career in computer engineering.
 
@@ -19,6 +24,10 @@ INSERT INTO is used to add new records to a table. After creating a table, the f
 SELECT is the most frequently used SQL command and the one I spent the most time learning. It is used to retrieve data from a database, and it has many options and variations that make it extremely powerful. At its simplest, SELECT retrieves all rows from a table. But with additional clauses like WHERE, ORDER BY, GROUP BY, and HAVING, you can filter, sort, and summarize data in incredibly sophisticated ways.
 
 ## Writing Queries to Retrieve and Filter Data
+
+<!-- post-image-middle -->
+![The language of database image 2](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-middle-end -->
 
 Once I understood the basics of SELECT, I moved on to writing more complex queries. The WHERE clause was the first addition I learned — it allows you to filter rows based on a condition. For example, instead of retrieving all students, you can retrieve only the students from a specific city or only those with a GPA above a certain threshold.
 
