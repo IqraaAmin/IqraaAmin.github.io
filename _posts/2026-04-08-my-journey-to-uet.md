@@ -7,10 +7,7 @@ permalink: /posts/my-journey-to-uet/
 image:
   path: /assets/img/uet pic.jfif
 ---
-
 # My Journey to UET Faisalabad
-
-![Uet FSD Campus](uet pic.jfif)
 
 My name is Iqra, and I am from Faisalabad, Pakistan. After completing my ICS, I reached one of the most important turning points of my life—choosing a career and a university that would shape my future. Since childhood, I had a strong interest in technology, computers, and innovation. I was always curious about how computers work and how technology is transforming the world. Because of this passion, I decided to pursue Computer Engineering as my career.
 
@@ -27,6 +24,10 @@ My family played a very important role during this time. They constantly encoura
 As the examination dates approached, my nervousness increased. I wanted to perform well in both tests and secure admission to a reputable university. On the day of the exams, I entered the examination hall with confidence and determination. I tried my best to remain calm and focused while attempting every question carefully.
 
 ## The Day the Results Were Announced
+
+<!-- post-image-middle -->
+![my journey to uet image 2](https://images.pexels.com/photos/7972512/pexels-photo-7972512.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<!-- post-image-middle-end -->
 
 After completing the entry tests, the waiting period began. It felt like one of the longest periods of my life because I was constantly thinking about the results. Every day, I wondered whether my hard work would be rewarded and whether I would be able to achieve my dream.
 
